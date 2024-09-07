@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project3",
+  "description": "Weather-Journal App Project\r Overview\r This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
